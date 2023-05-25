@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>902395196568-fi90emqhb30s30h48e4e699to8u6ab2c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.902395196568-fi90emqhb30s30h48e4e699to8u6ab2c</string>
+	<key>API_KEY</key>
+	<string>AIzaSyApP0EWC3JzWLgVC44yG-8eEkdrZSiEiIQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>902395196568</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.monfyApp</string>
+	<key>PROJECT_ID</key>
+	<string>salloum-f6426</string>
+	<key>STORAGE_BUCKET</key>
+	<string>salloum-f6426.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:902395196568:ios:487a77ac17e69d30d74ced</string>
+</dict>
+</plist>

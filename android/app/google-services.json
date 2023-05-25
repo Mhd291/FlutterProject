@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "902395196568",
+    "project_id": "salloum-f6426",
+    "storage_bucket": "salloum-f6426.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902395196568:android:97b0d335bf22acc9d74ced",
+        "android_client_info": {
+          "package_name": "com.example.monfy_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902395196568-4bps359i9oq1gps4r84dsgflna71mbds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD34Ub0gh4sOBBN0gGv6Q_tH0Dh5CQp3eE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902395196568-4bps359i9oq1gps4r84dsgflna71mbds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
